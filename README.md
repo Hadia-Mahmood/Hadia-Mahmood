@@ -47,14 +47,14 @@
 
 ### 📌 Featured Projects
 
-*   **[TrustAid - Next-Gen Philanthropy](Link to repo if public)**: A decentralized charity platform built on the Ethereum blockchain using smart contracts and IPFS for real-time donation tracking and fraud reduction.
+*   **TrustAid - Next-Gen Philanthropy**: A decentralized charity platform built on the Ethereum blockchain using smart contracts and IPFS for real-time donation tracking and fraud reduction.
 *   **Network Traffic & Firewall Rule Simulator**: A Python-based tool to model deterministic packet inspection and rule-based traffic filtering.
 *   **Automated DDoS Mitigation & IPS**: A Python tool utilizing Scapy to sniff live Layer 3 traffic and calculate real-time PPS thresholds.
 
 ---
 
 ### 📝 Latest Writing
-*   [On The Critical Vulnerabilities Every Web Developer Should Know About in 2026](Link to Medium Article)
+*   On The Critical Vulnerabilities Every Web Developer Should Know About in 2026
 
 ---
 <p align="center">
